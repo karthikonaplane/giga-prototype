@@ -21,39 +21,39 @@ Several assumptions have been made in building each model, especially around use
 Make sure all dependencies are installed using the following links:
 
 python3>=3.5.5
-MacOS: (https://docs.python-guide.org/starting/install3/osx/)
+MacOS: https://docs.python-guide.org/starting/install3/osx/
 You will need to install GCC and Homebrew to make this work, directions are in the above link
 
 pip==20.1.1
 Should be installed automatically by Homebrew when installing Python3
 
 pandas==0.25.1
-(https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
 
 matplotlib==3.1.1
-(https://pypi.org/project/vega-datasets/)
+https://pypi.org/project/vega-datasets/
 
 rasterio==1.1.3
-(https://rasterio.readthedocs.io/en/latest/installation.html)
+https://rasterio.readthedocs.io/en/latest/installation.html
 
 numpy==1.17.2
-(https://scipy.org/install.html)
+https://scipy.org/install.html
 
 grispy==0.0.2 
-(https://pypi.org/project/grispy/) 
+https://pypi.org/project/grispy/
 
 wheel==0.34.2
-(https://pypi.org/project/wheel/)
+https://pypi.org/project/wheel/
 
 altair==4.0.1
-(https://altair-viz.github.io/getting_started/installation.html)
+https://altair-viz.github.io/getting_started/installation.html
 
-geopandas==0.7.0	
-(https://geopandas.org/install.html)
+geopandas==0.7.0
+https://geopandas.org/install.html)
 
 vega_datasets==0.8.0
-Should be installed with altair
-Otherwise: (https://pypi.org/project/vega-datasets/)
+Should be automatically installed with altair
+Otherwise: https://pypi.org/project/vega-datasets/
 
 
 # Configuration
@@ -86,3 +86,22 @@ Where `countryname` is the value you have selected for your `args.Country`. The 
 `plotAnalysis.py` has a similar `args.Country` section where you can hardcode the path to your `school_output.csv` and a corresponding shapefile for the country borders. You can run this with:
 
 >python3 plotAnalysis.py -C ‘countryname’
+
+# About UNICEF:
+UNICEF promotes the rights and wellbeing of every child, in everything we do. Together with our partners, we work in 190 countries and territories to translate that commitment into practical action, focusing special effort on reaching the most vulnerable and excluded children, to the benefit of all children, everywhere.
+
+For more information about UNICEF and its work for children, visit www.unicef.org.
+
+Follow UNICEF on [Twitter](https://twitter.com/unicefmedia) and [Facebook](https://www.facebook.com/unicef/)
+
+# About ACTUAL:
+ACTUAL gives infrastructure originators, investors, and other stakeholders confidence as they model and track the cost, impact, and outcomes of sustainable and net-zero infrastructure projects. Visit www.actualhq.com or [contact us](mailto:hello@actualhq.com) to learn more about how our digital-twin based models can help unlock new savings and revenue streams for your projects.
+
+Follow ACTUAL on [Twitter](https://twitter.com/ActualHQ) and visit our [blog](http://blog.actualhq.com) to learn more about our other projects and perspectives.
+
+# About Giga: 
+
+Some 3.6 billion people in the world do not have access to the Internet. The lack of access to the internet means exclusion, marked by the lack of access to the wealth of information available online, fewer resources to learn and grow, and limited opportunities for the most vulnerable children and youth to fulfill their potential. Closing the digital divide requires global cooperation, leadership, and innovation in finance and technology. 
+
+Giga is a UNICEF-ITU global initiative to connect every school to the Internet and every young person to information, opportunity and choice. Connect with us by visiting https://gigaconnect.org and following us on [Twitter](https://twitter.com/Gigaconnect). 
+
