@@ -87,21 +87,19 @@ Where `countryname` is the value you have selected for your `args.Country`. The 
 
 >python3 plotAnalysis.py -C ‘countryname’
 
-# About UNICEF:
-UNICEF promotes the rights and wellbeing of every child, in everything we do. Together with our partners, we work in 190 countries and territories to translate that commitment into practical action, focusing special effort on reaching the most vulnerable and excluded children, to the benefit of all children, everywhere.
+# About Giga: 
+Some 3.6 billion people in the world do not have access to the Internet. The lack of access to the internet means exclusion, marked by the lack of access to the wealth of information available online, fewer resources to learn and grow, and limited opportunities for the most vulnerable children and youth to fulfill their potential. Closing the digital divide requires global cooperation, leadership, and innovation in finance and technology. 
 
-For more information about UNICEF and its work for children, visit www.unicef.org.
-
-Follow UNICEF on [Twitter](https://twitter.com/unicefmedia) and [Facebook](https://www.facebook.com/unicef/)
+Giga is a UNICEF-ITU global initiative to connect every school to the Internet and every young person to information, opportunity and choice. Connect with us by visiting https://gigaconnect.org and following us on [Twitter](https://twitter.com/Gigaconnect). 
 
 # About ACTUAL:
 ACTUAL gives infrastructure originators, investors, and other stakeholders confidence as they model and track the cost, impact, and outcomes of sustainable and net-zero infrastructure projects. Visit www.actualhq.com or [contact us](mailto:hello@actualhq.com) to learn more about how our digital-twin based models can help unlock new savings and revenue streams for your projects.
 
 Follow ACTUAL on [Twitter](https://twitter.com/ActualHQ) and visit our [blog](http://blog.actualhq.com) to learn more about our other projects and perspectives.
 
-# About Giga: 
+# About UNICEF:
+UNICEF promotes the rights and wellbeing of every child, in everything we do. Together with our partners, we work in 190 countries and territories to translate that commitment into practical action, focusing special effort on reaching the most vulnerable and excluded children, to the benefit of all children, everywhere.
 
-Some 3.6 billion people in the world do not have access to the Internet. The lack of access to the internet means exclusion, marked by the lack of access to the wealth of information available online, fewer resources to learn and grow, and limited opportunities for the most vulnerable children and youth to fulfill their potential. Closing the digital divide requires global cooperation, leadership, and innovation in finance and technology. 
+For more information about UNICEF and its work for children, visit www.unicef.org.
 
-Giga is a UNICEF-ITU global initiative to connect every school to the Internet and every young person to information, opportunity and choice. Connect with us by visiting https://gigaconnect.org and following us on [Twitter](https://twitter.com/Gigaconnect). 
-
+Follow UNICEF on [Twitter](https://twitter.com/unicefmedia) and [Facebook](https://www.facebook.com/unicef/)
